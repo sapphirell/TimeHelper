@@ -1,0 +1,15 @@
+{
+    "name": "sapphirell/time-helper",
+    "authors": [
+        {
+            "name": "sapphirell",
+            "email": "hentai@fantuanpu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TimerHelper": "src/"
+        }
+    }
+}
