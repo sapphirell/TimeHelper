@@ -6,10 +6,5 @@
             "email": "hentai@fantuanpu.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "TimerHelper": "src/"
-        }
-    }
+    "require": {}
 }
